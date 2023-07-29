@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerie
 - 👀 I’m interested in Machine Learning projects
-- 🌱 I’m currently student in Kangwon national University, Korea.
+- 🌱 I’m currently student in Kangwon National University, Korea.
 - 💞️ I’m looking to collaborate on problems related sourcer code models.
 - 📫 @gerie.097210 (Instagram)
 
