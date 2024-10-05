@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerie
-- 👀 I’m interested in Machine Learning projects
-- 🌱 I’m currently student in Kangwon National University, Korea.
+- 👀 Interested in code-specific large language models (Code LLMs) and related projects.
+- 🌱 Student in Kangwon National University, Korea.
 - 💞️ I’m looking to have access any demo series related source code models.
 - 📫 @gerie.097210 (Instagram)
 
