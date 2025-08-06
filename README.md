@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerie
 - 👀 Interested in code-specific large language models (Code LLMs) and related projects.
 - 🌱 Student in Kangwon National University, Korea.
-- 💞️ I’m ready to grow-up with demo series related to code models.
+- 💞️ I’m ready to grow-up with dev series related to code models.
 - 📫 @gerie.097210 (Instagram)
 
 <!---
